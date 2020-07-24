@@ -56,4 +56,5 @@ The following task is advanced and therefore optional.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
 
-### [Belly Button Biodiversity](https://beiniycitiznet.github.io/Belly_Button_Biodiversity/)
+
+## [Belly Button Biodiversity](https://beiniycitiznet.github.io/Belly_Button_Biodiversity/)
